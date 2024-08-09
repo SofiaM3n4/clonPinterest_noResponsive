@@ -14,7 +14,7 @@ header nav{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    width: 98vw;
+    width: 100vw;
     height: 80px;
     font-size: 16px;
     position: fixed;
@@ -115,7 +115,7 @@ header nav{
 }
 
 .imagenes{
-    columns: 5 240px;
+    columns: 5 3em;
     margin: auto;
 }
 
